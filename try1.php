@@ -1,5 +1,5 @@
 <?php
-echo ' test git';
+echo ' test git pull 2 to master';
 <html>
 <body>
 <form action="try1.php" method="post">
